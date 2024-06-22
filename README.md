@@ -3,6 +3,6 @@ The purpose of this Spring REST API project is to create a CICD PIPELINE using J
 TO RUN:
 Clone the project. 
 Open it in Eclipse.
-Run a Spring Application
+Run as Spring Boot App
 It runs at http://localhost:9090/employees
 Look at the code to see other REST API methods
