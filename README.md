@@ -5,4 +5,4 @@ Clone the project.
 Open it in Eclipse.
 Run as Spring Boot App
 It runs at http://localhost:9090/employees
-Look at the code to see other REST API methods s 
+Look at the code to see other REST API methods ss 
